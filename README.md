@@ -1,11 +1,7 @@
-                                                         
-                                          ![Drawing2](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/92b5a963-2059-4743-8638-0e4b055c7d04)
 
           
                                                          
-                                                         
-                                                         
-                                                         
+                                            
                                                          To Whom It May Concern
 
                                                        Members of Scientific Community
