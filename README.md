@@ -1,4 +1,4 @@
-**The architecture of the proposed PIDC-NN, also called **MinerNet****
+#**The architecture of the proposed PIDC-NN, also called **MinerNet****
 ![Drawing2](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/786c9f34-4955-4941-b4be-ec307a2fd08e)
           
                                                          
