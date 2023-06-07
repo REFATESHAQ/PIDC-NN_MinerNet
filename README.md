@@ -3,13 +3,9 @@
 
 ```diff
 - To Whom It May Concern
-         
-         
-       
-
-                                                  - Members of Scientific Community
-
-                                           - Wolves of  Science, Engineering, and Technology
+- Members of Scientific Community
+- Wolves of  Science, Engineering, and Technology
+```                                           
 
 Dear colleagues:
 
