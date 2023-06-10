@@ -10,7 +10,7 @@
 
 Dear colleagues:
 
- I hope my letter finds you well. My name is REFAT ESHAQ ( https://orcid.org/0000-0002-6448-4054 ). My nickname is Wolf's Mind. I have created a new algorithm, namely Proportional–Integral–Derivative–Cumulative Neural Network (PIDC-NN), also called MinerNet. This algorithm work based on the PID controller that was created by the inventor Elmer Sperry in 1910. 
+ I hope my letter finds you well. My name is REFAT ESHAQ ( https://orcid.org/0000-0002-6448-4054 ). My nickname is Wolf's Mind. I have created a new algorithm, namely Proportional–Integral–Derivative–Cumulative Neural Network (PIDC-NN), also called MinerNet. This algorithm work based on the PID controller that was created by the inventor Elmer Sperry in 1910. The code has been released on GitHub, see https://github.com/REFATESHAQ/PIDC-NN_MinerNet. The data (Coal and Gangue Infrared Images in BMP file format (Data.zip)) have been released on IEEE Dataport, see https://dx.doi.org/10.21227/v3m7-dk11.
  
 Although convolutional neural networks (CNNs) have achieved great successes in computer vision and pattern recognition, they have some shortcomings. In this article, a novel deep learning algorithm for binary classification is proposed to distinguish between coal and gangue infrared images. First, a Proportional–Integral–Derivative–Cumulative (PIDC) algorithm  is created, which works based on the concept of a PID controller, in order to quickly extract features from infrared images and also to control the performance of Artificial Neural Networks (ANNs). Second, an ANN is designed for binary classification tasks (coal/gangue). Third, the PIDC algorithm and the ANN algorithm are connected to create a new learning system, namely, the Proportional–Integral–Derivative–Cumulative Neural Network (PIDC-NN), also called MinerNet. The proposed PIDC-NN architecture works without any traditional layers of deep CNNs such as convolutional layers, nonlinear activation functions layers, batch normalization layers, polling layers, or dropout layers. The results of the training and test processes demonstrate that the proposed PIDC-NN architecture alleviates the oscillation and overfitting problems of existing CNNs. Moreover, it solves the problem of dead neurons and big data that are required to train CNNs. Additionally, it provides robust and resilient control by tuning the gain coefficients KP, KI, and KD; the sampling time (dt); and arbitrary value (AV). A comparison between the proposed PIDC-NN architecture and state-of-the-art CNNs proves the effectiveness of the proposed method in accelerating both the training and test processes with competitive loss and accuracy.
 
@@ -18,13 +18,9 @@ I emphasize that this algorithm (PIDC) that I created through my own effort, can
 
 The code is licensed under GNU Affero General Public License Version 3 (GNU AGPLv3); for more information, see https://www.gnu.org/licenses/agpl-3.0.en.html. The data (Coal and Gangue Infrared Images in BMP file format (Data.zip)) are licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License. For more information, see https://creativecommons.org/licenses/by/4.0/. 
 
-•	The code has been released on GitHub, see https://github.com/REFATESHAQ/PIDC-NN_MinerNet .
-
-•	The data (Coal and Gangue Infrared Images in BMP file format (Data.zip)) have been released on IEEE Dataport, see https://dx.doi.org/10.21227/v3m7-dk11.
-
 This work has been supported by my livelihood and my family's aid. The code and data are connected to article, entitled “Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)” TechRxiv (10.36227/techrxiv.23266301). Note that, the article is under review. 
 
-For the introduction, methodology, and results. You can see this article https://doi.org/10.36227/techrxiv.23266301.v1 
+For the introduction, methodology, and results. You can see the article https://doi.org/10.36227/techrxiv.23266301.v1 
 
 The question is, why do I make contact with you? 
 As the average review time in top journals for the first round of submission may exceed one year, they encourage the authors to submit their papers to TechRxiv, IEEE's preprint server, and publish the code in GitHub platform in order to quickly disseminate their work to a wide audience and gain community feedback. Therefore: 
