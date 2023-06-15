@@ -1,5 +1,6 @@
 # The architecture of the proposed PIDC-NN, also called MinerNet. To read and download the article, please click here [PIDC-NN_MinerNet Article](https://doi.org/10.36227/techrxiv.23266301.v1)
 ![Drawing2](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/786c9f34-4955-4941-b4be-ec307a2fd08e)
+![PIDC-NN](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/22a72763-ed25-4636-80ce-ed1da0314f2a)
 
 
 ### To Whom It May Concern
@@ -23,6 +24,7 @@ This work has been supported by my livelihood and my family's aid. The code and 
 For the introduction, methodology, and results. You can see the article https://doi.org/10.36227/techrxiv.23266301.v1 
 
 The question is, why do I make contact with you? 
+
 As the average review time in top journals for the first round of submission may exceed one year, they encourage the authors to submit their papers to TechRxiv, IEEE's preprint server, and publish the code in GitHub platform in order to quickly disseminate their work to a wide audience and gain community feedback. Therefore: 
 
 •	If you are a researcher in medicine, you can use and develop this code to detect the cancers Benign and Malignant Tumors by using the dataset of breast mammography images as inputs to the PIDC-NN algorithm.
