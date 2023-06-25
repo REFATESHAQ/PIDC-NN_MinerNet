@@ -56,4 +56,6 @@ Author's Email: refateshaq1993@gmail.com;  refateshaq@hotmail.com;  fs18050005@c
 
 # Important Notice
 
-If you would like to operate this Network with other images in any other field but the number of images is different, you must adjust these numbers as shown in the below figure. For example, in my case, the number of infrared images of coal was 308 images and the number of infrared images of gangue was 308 images so the total was 616  images. The numbers of training, validation, and test,  in the Data processing section of the code, as displayed below figure,  were adjusted based on the number of images I had. If you do not understand what I mean and do not adjust these numbers, certainly the Network does not work well.  
+If you would like to operate this Network with other images in any other field but the number of images is different, you must adjust these numbers as shown in the below figure. For example, in my case, the number of infrared images of coal was 308 images and the number of infrared images of gangue was 308 images so the total was 616  images. The numbers of training, validation, and test images, in the Data processing section of the code, as displayed in the below figure,  were adjusted based on the number of images I had. If you do not understand what I mean and do not adjust these numbers, certainly the Network does not work well.  
+
+![Capture](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/056c7d6c-5dfc-4dd4-9c6b-e095c2b0151c)
