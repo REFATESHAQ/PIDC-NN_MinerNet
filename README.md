@@ -6,7 +6,7 @@
 
 ### To Whom It May Concern
 
-### Members of Scientific Community
+### Members of The Scientific Community
 
 ### Wolves of  Science, Engineering, and Technology                                          
 
@@ -22,7 +22,7 @@ The code is licensed under GNU Affero General Public License Version 3 (GNU AGPL
 
 This work has been supported by my livelihood and my family's aid. The code and data are connected to article, entitled “Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)” TechRxiv (10.36227/techrxiv.23266301). Note that, the article is under review. 
 
-For the introduction, methodology, and results. You can see the article https://doi.org/10.36227/techrxiv.23266301.v1 
+For the introduction, methodology, and results. You can see the article (Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)) [https://doi.org/10.36227/techrxiv.23266301.v2]
 
 The question is, why do I make contact with you? 
 
@@ -38,7 +38,7 @@ As the average review time in top journals for the first round of submission may
 
 •	If you are a researcher in Mechatronics Engineering, you can use and develop this code and insert it in Robots as visual sense algorithm such as Robotic Arms (Manipulators), Mobile Robots, and Drones and so on. 
 
-Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system need to be stable.
+Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system needs to be stable.
 
 Yours faithfully
 
@@ -53,3 +53,7 @@ ResearchGate: https://www.researchgate.net/profile/Refat-Eshaq
 Google Scholar: https://scholar.google.com/citations?user=_mmSzykAAAAJ&hl=en
 
 Author's Email: refateshaq1993@gmail.com;  refateshaq@hotmail.com;  fs18050005@cumt.edu.cn; 
+
+# Important Notice
+
+If you would like to operate this Network with other images in any other field but the number of images is different, you must adjust these numbers as shown in the below figure. For example, in my case, the number of infrared images of coal was 308 images and the number of infrared images of gangue was 308 images so the total was 616  images. The numbers of training, validation, and test,  in the Data processing section of the code, as displayed below figure,  were adjusted based on the number of images I had. If you do not understand what I mean and do not adjust these numbers, certainly the Network does not work well.  
