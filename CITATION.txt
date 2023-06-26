@@ -1,0 +1,9 @@
+Author Name: Refat Mohammed Abdullah Eshaq.
+
+Article Title: Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet).
+
+Publish Date: 2023-06-06. 
+
+For more information, see <https://www.techrxiv.org/articles/preprint/Deep_Learning_Algorithm_for_Computer_Vision_with_a_New_Technique_and_Concept_PIDC-NN_for_Binary_Classification_Tasks_in_a_Coal_Preparation_Plant_MinerNet_/23266301/2>.
+
+Notice: The code and data are connected to article, entitled “Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)”. 
