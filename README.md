@@ -22,7 +22,7 @@ The code is licensed under GNU Affero General Public License Version 3 (GNU AGPL
 
 This work has been supported by my livelihood and my family's aid. The code and data are connected to article, entitled “Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)” TechRxiv (10.36227/techrxiv.23266301). Note that, the article is under review. 
 
-For the introduction, methodology, and results. You can see the article (Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)) [https://doi.org/10.36227/techrxiv.23266301.v2]
+For the introduction, methodology, and results. You can see the article [Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v2)
 
 The question is, why do I make contact with you? 
 
