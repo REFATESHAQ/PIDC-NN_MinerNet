@@ -46,8 +46,6 @@ ESHAQ
 
 “He was born in June 2, 1993. Having fished general secondary school, he traveled to the Republic of Egypt to study mechanical engineering, and he received a bachelor's degree in mechanical engineering, in January 2018. He studied mechatronic engineering in the People's Republic of China, and received a master's degree of engineering in mechatronic engineering, in June 2021.  He is currently pursuing a PhD degree at school of mechanical and electrical engineering,  in the People's Republic of China, his major area of study is mechatronic engineering. In spare time, he is working on his own project to build a company of artificial intelligence that specializes in computer vision and control theory. He has been serving as a reviewer for top peer-reviewed journal “Applied Energy” which is ranked as one of the ten best journals over the world in the fields of mechanical engineering, building and construction engineering, and energy. His research interests include thermal radiation, infrared imaging, computer vision, image processing, machine learning, deep learning, neural networks, and control theory (PID controllers)”.
 
-Web of Science ResearcherID: AAJ-8724-2020
-
 ResearchGate: https://www.researchgate.net/profile/Refat-Eshaq
 
 Google Scholar: https://scholar.google.com/citations?user=_mmSzykAAAAJ&hl=en
