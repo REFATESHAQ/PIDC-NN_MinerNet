@@ -1,6 +1,6 @@
 ## Dear colleagues:
 
- ## Let me announce the war between the PIDC-NN and CNNs, under the law of scientist Max Planck and the inventor Elmer Sperry in order to destroy the reputation of convolutional neural networks  (CNNs) that was established based on simple mathematical calculation. Anyone is welcome to be a contributor to this project. All contributors must respect the blood wolf rules. 
+ ## Let me announce the war between the PIDC-NN and CNNs, under the law of scientist Max Planck and the inventor Elmer Sperry in order to destroy the reputation of convolutional neural networks  (CNNs) that was established based on simple mathematical calculation. Anyone is welcome to be a contributor to this project. All contributors must respect the Wolf Blood rules. 
 
 ## see https://github.com/REFATESHAQ/PIDC-NN_MinerNet, and https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro. your idea is valuable to this project. 
 
