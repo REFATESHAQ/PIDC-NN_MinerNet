@@ -20,7 +20,7 @@ I emphasize that this algorithm (PIDC) that I created through my own effort, can
 
 The code is licensed under GNU Affero General Public License Version 3 (GNU AGPLv3); for more information, see https://www.gnu.org/licenses/agpl-3.0.en.html. The data (Coal and Gangue Infrared Images in BMP file format (Data.zip)) are licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License. For more information, see https://creativecommons.org/licenses/by/4.0/. 
 
-This work has been supported by my livelihood and my family's aid. The code and data are connected to the article, entitled [Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v2)
+This work has been supported by my livelihood and my family's aid. The code and data are connected to the article, entitled [Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v3)
 
 The question is, why do I make contact with you? 
 
