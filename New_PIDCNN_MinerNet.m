@@ -6,7 +6,7 @@
 % This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 % This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
 % This work has been supported by my livelihood and my family's aid. 
-% The code and data are connected to the article, entitled “Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)”, see  <https://www.techrxiv.org/articles/preprint/Deep_Learning_Algorithm_for_Computer_Vision_with_a_New_Technique_and_Concept_PIDC-NN_for_Binary_Classification_Tasks_in_a_Coal_Preparation_Plant_MinerNet_/23266301/2>. Note that, the article is under review. 
+% The code and data are connected to the article, entitled “Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)”, see  <https://doi.org/10.36227/techrxiv.23266301.v3>. Note that, the article is under review. 
 % Publish Date: 2023-06-06.  
 % Author's Email: refateshaq1993@gmail.com; refateshaq@hotmail.com; fs18050005@cumt.edu.cn;  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
