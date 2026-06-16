@@ -4,7 +4,7 @@
 ![PIDC-NN](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/22a72763-ed25-4636-80ce-ed1da0314f2a)
 
 
-This is the application of our work. 
+This is an application of the work we carried out from 2019 to October 2022. © Refat Mohammed Abdullah Eshaq, 2019–2022. All rights reserved.
 
 https://github.com/user-attachments/assets/876cc41f-4f17-4982-a4dc-1e15e849200a
 
