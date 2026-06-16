@@ -3,6 +3,15 @@
 ![Loss](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/09ffd34c-d2b9-407b-92c2-28d63cfd226b)
 ![PIDC-NN](https://github.com/REFATESHAQ/PIDC-NN_MinerNet/assets/48349737/22a72763-ed25-4636-80ce-ed1da0314f2a)
 
+
+This is the application of our work. 
+
+https://github.com/user-attachments/assets/876cc41f-4f17-4982-a4dc-1e15e849200a
+
+
+
+
+
 ### To Whom It May Concern
 ### Members of the Scientific Community
 
