@@ -6,7 +6,7 @@
 
 <p align="center">
   <span style="color:red;">
-    ### This is an application of the work we carried out from 2019 to October 2022. © Refat Mohammed Abdullah Eshaq, 2019–2022. All rights reserved.
+   This is an application of the work we carried out from 2019 to October 2022. © Refat Mohammed Abdullah Eshaq, 2019–2022. All rights reserved.
   </span>
 </p>
 
